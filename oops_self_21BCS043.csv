@@ -1,0 +1,17 @@
+Roll Number,Date,Present,Work Completed,Work Evaluated,Code Available,Report Available,Key Lessons
+21BCS043,01-08-2023,N,N,N,N,N,
+21BCS043,08-08-2023,Y,Y,Y,Y,N,implemented string operations using classes
+21BCS043,15-08-2023,Y,Y,Y,Y,N,implemented matrix operation
+21BCS043,22-08-2023,Y,Y,Y,Y,Y,"Basics of cpp, objects and classes"
+21BCS043,29-08-2023,Y,Y,Y,Y,Y,Learnt about constructors and member functions
+21BCS043,05-09-2023,Y,Y,Y,Y,Y,"Access modifiers, data members, different type of constructor and destructor, static and const data member and member functions"
+21BCS043,12-09-2023,Y,Y,Y,Y,Y,Arithmetic Operator overloading
+21BCS043,19-09-2023,Y,Y,Y,Y,Y,"Subscript and stream operator overloading, friend keyword, insertion sorting"
+21BCS043,26-09-2023,N,N,N,N,N,
+21BCS043,03-10-2023,Y,Y,Y,Y,Y,"Inheritance, derived classes, abstract class, virtual function and pure virtual function "
+21BCS043,10-10-2023,Y,Y,Y,Y,Y,"Runtime polymorphism, performance optimization of insertion sorting"
+21BCS043,17-10-2023,Y,Y,Y,Y,Y,"Java setup, java run time, java virtual machine, jdk, java syntax"
+21BCS043,24-10-2023,N,N,N,N,N,
+21BCS043,31-10-2023,N,N,N,N,N,
+21BCS043,07-11-2023,Y,Y,Y,Y,Y,"Multi-threading in java, Runnable class, merge sort"
+21BCS043,14-11-2023,N,N,N,N,N,
